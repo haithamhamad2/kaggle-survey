@@ -65,7 +65,7 @@ Python and SQL
 3. [**Spark Installation**](spark/spark.md): Steps to install and configure Apache spark
 4. [**Kaggle API Key**](kaggle/kaggle.md): Steps to generate Kaggle API key to be used in Mage project
 5. [**Mage Installation and configuration**](mage/mage.md): Steps to install, configure, and run Mage
-6. [**Google Looker Studio**]([dashboard/dashboard.md](https://lookerstudio.google.com/overview)): Use your google account to connect Looker to your bigquery tables
+6. [**Google Looker Studio**](https://lookerstudio.google.com/overview): Use your google account to connect Looker to your bigquery tables
 
 ## Version Control
 This GitHub repository manages the project's documentation and codebase. It has been cloned to the Google VM for seamless development and deployment.
